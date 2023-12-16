@@ -4,9 +4,9 @@ http://45.12.1.14:80/tk55sy6eRl/6wiX4x07/14222
 #EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",SHOW TV HD
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",ATV HD
-http://45.12.1.14:80/tk55sy6eRl/6wiX4x07/14221
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1702785454/ei/Th1-ZZ6OLbLSi9oPm5u52Ac/ip/2a01:5a8:302:5742:7101:4209:e88d:9df/id/zmFaUZwKVF4.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-8p85jvh-nv4d.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/bg/spc/UWF9f402odJAXxAFt_QiMazGjhrwuLtuPrBkHhrdOw/vprv/1/playlist_type/DVR/initcwndbps/1650000/mh/Jn/mip/2a01:5a8:302:5742:10d4:f589:6f03:e61d/mm/44/mn/sn-8p85jvh-nv4d/ms/lva/mv/m/mvi/2/pl/48/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1702763571/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,spc,vprv,playlist_type/sig/AJfQdSswRgIhAM3LvMZ5CCrVX7tEWV6YUJvzEtbm5-HB_rmN7sy9qfgoAiEAyU8etGtbaZiKkEO0Ph26y4c8ewxbwNRt_Tp5XaL4zLk%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AAO5W4owRgIhALmlzhkRip-nDttgkS1XasKLEjQI1F92r-AIMhy0C-Q5AiEAgPxxSTmGDqkzoAugOOPUPL8nV55MHyP1Iyj78r2bhrI%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",STAR TV HD
-http://45.12.1.14:80/tk55sy6eRl/6wiX4x07/14223
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1702785349/ei/5Rx-Za0R5YGL2g_9k5LIDg/ip/2a01:5a8:302:5742:7101:4209:e88d:9df/id/82O6yOy_XwE.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-8p85jvh-nv4d.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/bg/spc/UWF9f2HfPEsFQdG_Y_23z0ERulOentwIKQRToOZqPQ/vprv/1/playlist_type/DVR/initcwndbps/1621250/mh/DY/mm/44/mn/sn-8p85jvh-nv4d/ms/lva/mv/m/mvi/2/pl/48/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1702763332/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,spc,vprv,playlist_type/sig/AJfQdSswRAIgLPku6eMpyiT9Ng4dfc9VPH23D8C-BFOmprRB82dupJYCIApoqVVt0p_XBZbs3Iv3ZuZKIxM8b_mA1Id1wEAF_05s/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AAO5W4owRQIhAMjRnlEcwizbMKmX6InvaBNvjv4MSGIBpNsPwslT4KwOAiAEn67tpIXFL8YIIhb5heJynBp1pLBdTkblOBrgCNq-6A%3D%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",FOX TV
 http://45.12.1.14:80/tk55sy6eRl/6wiX4x07/14224
 #EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",TV 8 HD
@@ -26,10 +26,8 @@ http://45.12.1.14:80/tk55sy6eRl/6wiX4x07/73870
 #EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",beIN MOVIES TURK
 http://45.12.1.14:80/tk55sy6eRl/6wiX4x07/16292
 #EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",SINEMA TV YERLI
-http://localiptv.site:85/UniversalIptvDisc/Qsfrorv45JDIJSjseZdhx/1633
+http://amazingiptv.one:8080/NetcomD/725634/92393
 #EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",YESILCAM TV
-http://45.12.1.14:80/tk55sy6eRl/6wiX4x07/12753
-#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",YESILCAM TV 2
 http://45.12.1.14:80/tk55sy6eRl/6wiX4x07/5132
 #EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",360 TV HD
 http://45.12.1.14:80/tk55sy6eRl/6wiX4x07/5114
@@ -40,21 +38,15 @@ http://45.12.1.14:80/tk55sy6eRl/6wiX4x07/5165
 #EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",Viasat History
 http://45.12.1.14:80/tk55sy6eRl/6wiX4x07/116857
 #EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",BBC EARTH
-http://45.12.1.14:80/tk55sy6eRl/6wiX4x07/18330
+http://amazingiptv.one:8080/NetcomD/725634/374326
 #EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",Discovery Channel
-http://localiptv.site:85/UniversalIptvDisc/Qsfrorv45JDIJSjseZdhx/217
+http://amazingiptv.one:8080/NetcomD/725634/243203
 #EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",TLC HD
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",DMAX HD
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",TV 8.5
 http://45.12.1.14:80/tk55sy6eRl/6wiX4x07/14436
-#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",beIN MOVIES STARS
-http://mytv.fun:80/prizmatvnor/HfjEivnQdk32KEoa/8707
-#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",beIN MOVIES PREMIERE 2
-http://localiptv.site:85/UniversalIptvDisc/Qsfrorv45JDIJSjseZdhx/212
-#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",beIN BOX OFFICE 1
-http://localiptv.site:85/UniversalIptvDisc/Qsfrorv45JDIJSjseZdhx/213
 #EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",SHOWMAX
 http://45.12.1.14:80/tk55sy6eRl/6wiX4x07/28425
 #EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",A2 TV
@@ -63,8 +55,6 @@ http://45.12.1.14:80/tk55sy6eRl/6wiX4x07/16827
 https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master.m3u8
 #EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",MTV 00s HD
-http://xciptv.aplicativos.top:80/264687335/D802T2937C/21289
 #EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",MTV 00s
 http://45.12.1.14:80/tk55sy6eRl/6wiX4x07/3943
 #EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",MTV 90s LBR
@@ -75,23 +65,15 @@ http://45.12.1.14:80/tk55sy6eRl/6wiX4x07/17388
 http://hdhd.tk:80/005490/005490/28305
 #EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",MTV Classic
 http://abc123.digital:8080/chicagotron@gmail.com/A4gUr1KUrH/508014
-#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",TRACE VAULT SD
-http://163.172.55.74:8080/3uEbt7fHEYWx/r9zTgCfgGDT6/102526
 #EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",BBC ONE HD
 http://hdhd.tk:80/005490/005490/28296
 #EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",ITV 1 HD
-http://bbiptv.net:8000/tntreatreams/dqXb8PX7QO/1115
-#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",ITV 1 ALTERNATIVE
 http://hdhd.tk:80/005490/005490/28288
-#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",ITV 2 ALTERNATIVE
-http://hdhd.tk:80/005490/005490/28289
 #EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",ITV 2 HD
-http://bbiptv.net:8000/tntreatreams/dqXb8PX7QO/1116
+http://hdhd.tk:80/005490/005490/28289
 #EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",CHANNEL 4 HD
 http://abc123.digital:8080/chicagotron@gmail.com/A4gUr1KUrH/507901
 #EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",CHANNEL 5 HD
-http://bbiptv.net:8000/tntreatreams/dqXb8PX7QO/1099
-#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",CHANNEL 5 ALTERNATIVE
 http://hdhd.tk:80/005490/005490/28293
 #EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",ITV BE SD
 http://abc123.digital:8080/chicagotron@gmail.com/A4gUr1KUrH/507947
@@ -102,11 +84,7 @@ http://163.172.55.74:8080/3uEbt7fHEYWx/r9zTgCfgGDT6/2112
 #EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",E4 ALTERNATIVE
 http://abc123.digital:8080/chicagotron@gmail.com/A4gUr1KUrH/507927
 #EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",4SEVEN sd
-http://localiptv.site:85/UniversalIptvDisc/Qsfrorv45JDIJSjseZdhx/417
-#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",beIN MOVIES PREMIERE
-http://localiptv.site:85/UniversalIptvDisc/Qsfrorv45JDIJSjseZdhx/1634
-#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",beIN MOVIES FAMILY
-http://regotv.net:80/dirkvangrinsven/YbS4KUcKLPzj/97673
+http://45.12.1.14:80/tk55sy6eRl/6wiX4x07/3961
 #EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",SINEMA TV
 http://45.12.1.14:80/tk55sy6eRl/6wiX4x07/19565
 #EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",SINEMA 2 TV
@@ -115,29 +93,17 @@ http://45.12.1.14:80/tk55sy6eRl/6wiX4x07/73875
 http://45.12.1.14:80/tk55sy6eRl/6wiX4x07/19561
 #EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",SINEMA TV 1002
 http://45.12.1.14:80/tk55sy6eRl/6wiX4x07/73874
-#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",SINEMA TV AKSIYON
-http://ipflix.click:80/pepsi12203/0OoDbOSYzo/8688
 #EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",SINEMA TV AKSIYON 2
 http://45.12.1.14:80/tk55sy6eRl/6wiX4x07/73876
-#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",SINEMA TV KOMEDI
-http://rtrxjs.nccdn.buzz:80/UlviSiginc/17.08.2022/106
 #EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",SINEMA TV KOMEDI 2
-http://rtrxjs.nccdn.buzz:80/UlviSiginc/17.08.2022/152
-#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",SINEMA TV AILE
-http://rtrxjs.nccdn.buzz:80/UlviSiginc/17.08.2022/208
-#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",SINEMA TV AILE 2
-http://rtrxjs.nccdn.buzz:80/UlviSiginc/17.08.2022/114
-#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",SINEMA TV YERLI 2
-http://rtrxjs.nccdn.buzz:80/UlviSiginc/17.08.2022/117
+http://45.12.1.14:80/tk55sy6eRl/6wiX4x07/73878
 #EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",KANAL D HD ALTERNATIF
 https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
 #EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",ATV ALTERNATIF
-https://youtu.be/zmFaUZwKVF4
+http://45.12.1.14:80/tk55sy6eRl/6wiX4x07/14221
 #EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",STAR TV 720p ALTERNATIF
-https://youtu.be/82O6yOy_XwE
+http://45.12.1.14:80/tk55sy6eRl/6wiX4x07/14223
 #EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",TV 8 HD ALTERNATIVE
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
-#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",FOX TV ALTERNATIVE
-http://localiptv.site:85/UniversalIptvDisc/Qsfrorv45JDIJSjseZdhx/208
 #EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",TRT 1 HD ALTERNATIVE
 https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
